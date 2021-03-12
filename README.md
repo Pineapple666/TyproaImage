@@ -1,0 +1,2 @@
+# TyproaImage
+This is where Typora's pictures are kept
